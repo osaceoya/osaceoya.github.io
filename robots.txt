@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osaceoya.github.io/ITo/sitemap_index.txt
+Sitemap: https://osaceoya.github.io/eNs/sitemap_index.txt
+Sitemap: https://osaceoya.github.io/tZE/sitemap_index.txt
+Sitemap: https://osaceoya.github.io/teu/sitemap_index.txt
